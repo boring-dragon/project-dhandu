@@ -12,17 +12,17 @@ Read-more At https://jinas.me/project-dhandu . I will update the article when I 
 
 <u>**Models**</u>
 
----------------------------
+
 
 **Sensor** - ['name', 'type', 'description']
 
 **SensorReading** - ['sensor_id', 'reading', 'type']
 
-
+-------------------------------
 
 <u>**Relationships**</u>
 
---------------------------------
+
 
 **SensorReading** Belongs To a **Sensor**
 
