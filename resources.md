@@ -1,6 +1,6 @@
-# Project Dhandu
+# Project Dhandu Resources
 
-
+List of resources to help me out while working on the projects. I will just post any shiny thing I come across.
 
 For now the idea is to have a webserver in esp8226 and send request to an endpoint to control the lights and pumps manually. And for data entry esp8226 will send back sensor data to the server in json.
 
