@@ -10,7 +10,7 @@ Read-more At https://jinas.me/project-dhandu . I will update the article when I 
 
 ### Backend API and Dashboard
 
-## **Todo**
+ **Todo**
 
 - [ ] Setup Vue and tailwind with laravel mix
 
